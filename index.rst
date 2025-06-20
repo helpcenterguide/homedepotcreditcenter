@@ -7,7 +7,7 @@ Easily manage your Home Depot Credit Card through the official `Homedepot.com/my
 
 .. image:: get-started-here.png
    :alt: Homedepot.com/mycard
-   :target: https://fm.ci?aHR0cHM6Ly91Y2FyZGhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9ob21lZGVwb3RoZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
    :align: center
 
  
@@ -17,7 +17,7 @@ How to Sign In or Register Home depot credit card
 
 At first, I was hesitant. The interface looked unfamiliar, but I followed these steps:
 
-- I visited www.homedepot.com/mycard using Google Chrome on my laptop.
+- I visited `Homedepot.com/mycard <https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#signon?cm_sp=vanity-_-mycard-_-MAY17>` using Google Chrome on my laptop.
 - I clicked the Sign In button to access my account.
 - Since I did not have an online profile, I chose Register Your Card and filled in my card number, ZIP code, and personal details.
 - After verifying my information, I created a secure username and password.
@@ -67,7 +67,7 @@ If you are just getting started, here are some simple tips based on my experienc
 Why Choose the Home Depot Credit Card?
 -----------------------------------------
 
-Whether you’re a homeowner tackling renovations or a contractor managing projects, the Home Depot Credit Card offers unmatched flexibility and savings. With the Homedepot.com/mycard portal, you can manage your account, track spending, and take advantage of financing options—all from one user-friendly platform.
+Whether you’re a homeowner tackling renovations or a contractor managing projects, the Home Depot Credit Card offers unmatched flexibility and savings. With the `Homedepot.com/mycard <https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#signon?cm_sp=vanity-_-mycard-_-MAY17>` portal, you can manage your account, track spending, and take advantage of financing options—all from one user-friendly platform.
 
 Ready to take control? Log in to Homedepot.com/mycard today or download the Citi Mobile App to manage your Home Depot Credit Card with ease.
 
@@ -83,7 +83,7 @@ Yes, the portal redirects to Citibank’s encrypted servers, ensuring your data 
 Click Forgot User ID or Password? on the login page and follow the prompts to recover your account.
 
 **3. Can I pay my bill without logging in?**  
-Yes, use the Pay as Guest feature on Homedepot.com/mycard for quick, no-login payments.
+Yes, use the Pay as Guest feature on `Homedepot.com/mycard <https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#signon?cm_sp=vanity-_-mycard-_-MAY17>` for quick, no-login payments.
 
 **4. Is there a Home Depot Credit Card app?**  
 While there’s no dedicated app, the Citi Mobile App (available on iOS and Android) fully supports Home Depot Credit Card management.
