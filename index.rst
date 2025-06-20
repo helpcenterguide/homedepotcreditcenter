@@ -77,18 +77,23 @@ Frequently Asked Questions (FAQs)
 -------------------------------
 
 **1. Is Homedepot.com/mycard secure?**  
+
 Yes, the portal redirects to Citibank’s encrypted servers, ensuring your data is protected with industry-standard security measures.
 
 **2. What if I forget my login credentials?**  
+
 Click Forgot User ID or Password? on the login page and follow the prompts to recover your account.
 
 **3. Can I pay my bill without logging in?**  
+
 Yes, use the Pay as Guest feature on `Homedepot.com/mycard <https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#signon?cm_sp=vanity-_-mycard-_-MAY17>`_ for quick, no-login payments.
 
 **4. Is there a Home Depot Credit Card app?**  
+
 While there’s no dedicated app, the Citi Mobile App (available on iOS and Android) fully supports Home Depot Credit Card management.
 
 **5. How do I apply for a Home Depot Credit Card?**  
+
 Apply online at Homedepot.com/mycard or at any Home Depot store checkout.
 
 
